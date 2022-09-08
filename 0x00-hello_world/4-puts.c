@@ -3,20 +3,11 @@
 
 
 /**
- *  * main - Entry point
- *
- *  *
- *
- *  * Description: A C program that prints with put function
- *
- *  *
- *
- *  *Description: Always 0 (Success)
- *
-*/
-
-
-
+ *  main - main block
+ *  Return: 0
+ */
+ 
+ 
 int main(void)
 
 {
