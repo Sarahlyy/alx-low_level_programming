@@ -11,7 +11,7 @@
  *
  *  *
  *
- *  * Return: Always 0 (Success)
+ *  *Description: Always 0 (Success)
  *
 */
 
